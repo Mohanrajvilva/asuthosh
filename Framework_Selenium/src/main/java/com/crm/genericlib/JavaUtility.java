@@ -8,7 +8,7 @@ public class JavaUtility {
 	public int getRandomNumber()
 	{
 		Random ran = new Random();
-		int random =ran.nextInt(1000);
+		int random =ran.nextInt(2000);
 		return random;
 	}
 	/**
