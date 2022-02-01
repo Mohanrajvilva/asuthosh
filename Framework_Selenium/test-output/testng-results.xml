@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-01T20:59:24 IST" name="Default suite" finished-at="2022-02-01T21:00:49 IST" duration-ms="85113">
+    <groups>
+      <group name="regressiontest">
+        <method signature="OrganizationTest.createOrgwithindustryTest()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" name="createOrgwithindustryTest" class="com.crm.orgtest.OrganizationTest"/>
+      </group> <!-- regressiontest -->
+      <group name="smoketest">
+        <method signature="OrganizationTest.createOrgTest()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" name="createOrgTest" class="com.crm.orgtest.OrganizationTest"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test started-at="2022-02-01T20:59:24 IST" name="Default test" finished-at="2022-02-01T21:00:49 IST" duration-ms="85113">
+      <class name="com.crm.orgtest.OrganizationTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T20:59:24 IST" name="configBS" finished-at="2022-02-01T20:59:24 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T20:59:24 IST" name="configBC" finished-at="2022-02-01T20:59:32 IST" duration-ms="7966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T20:59:32 IST" name="configBM" finished-at="2022-02-01T20:59:40 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrgTest()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T20:59:40 IST" name="createOrgTest" finished-at="2022-02-01T21:00:08 IST" duration-ms="28645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:08 IST" name="configAM" finished-at="2022-02-01T21:00:11 IST" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:11 IST" name="configBM" finished-at="2022-02-01T21:00:18 IST" duration-ms="6331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrgwithindustryTest()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:18 IST" name="createOrgwithindustryTest" finished-at="2022-02-01T21:00:45 IST" duration-ms="26894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgwithindustryTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:45 IST" name="configAM" finished-at="2022-02-01T21:00:48 IST" duration-ms="2985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:48 IST" name="configAC" finished-at="2022-02-01T21:00:49 IST" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.crm.orgtest.OrganizationTest@6da21078]" started-at="2022-02-01T21:00:49 IST" name="configAS" finished-at="2022-02-01T21:00:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.orgtest.OrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
